@@ -3,9 +3,9 @@
     "version" : "0.4.0",
     "author" : { "name": "Dave Paul", "email": "davepaul0@gmail.com"},
     "repository": {
-    "type": "git",
-    "url": "git://github.com/AnyMesh/anyMesh-Node.git"
-  },
+        "type": "git",
+        "url": "https://github.com/dmlux/anyMesh-Node.git"
+    },
     "licenses": [
     {
       "type": "MIT"
